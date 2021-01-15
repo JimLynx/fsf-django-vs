@@ -27,7 +27,7 @@ SECRET_KEY = 'fxo4g106yxq3y709e5h-mj1s15yc89_*8ajs(=g4aro&rmy_el'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lynx-django-app.herokuapp.com']
 
 
 # Application definition
