@@ -1,1 +1,1 @@
-VS Code test for Django setup
+# VS Code test for Django setup
